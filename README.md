@@ -196,7 +196,7 @@ No external libraries, pure Solidity.
 
 ## **2. Adaptive Fee Mechanism**
 
-A rolling time window (e.g., 24h) tracks how much volume happened. Based on thresholds:
+A rolling time window (24h) tracks how much volume happened. Based on thresholds:
 
 * Too little activity → raise tax
 * Too much activity → lower tax
